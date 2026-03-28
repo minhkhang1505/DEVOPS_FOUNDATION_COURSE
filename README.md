@@ -85,3 +85,4 @@ To receive a certificate of completion, participants must meet the following cri
 
 
 ---
+# DEVOPS_FOUNDATION_COURSE
